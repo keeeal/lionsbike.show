@@ -1,6 +1,4 @@
 window.onload = function() {
-    $("#logo").addClass("loaded-appear");
-    $("#logo").show();
 
     var now = new Date();
     var year = now.getFullYear();
